@@ -1,0 +1,33 @@
+html {
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    font-family: 'monospace', sans-serif;
+}
+
+body {
+    background: rgb(202, 174, 186);
+    background: -moz-linear-gradient(90deg, rgb(92, 73, 81) 0%, rgb(132, 142, 155) 100%);
+    background: -webkit-linear-gradient(90deg, rgb(128, 102, 113) 0%, rgb(164, 178, 196) 100%);
+    background: linear-gradient(90deg, rgb(170, 150, 158) 0%, rgb(169, 177, 187) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f4a8c8",endColorstr="#006df6",GradientType=1);
+}
+
+h1 {
+    font-family: 'monospace', sans-serif;
+    color:antiquewhite;
+}
+
+img{
+    margin-left: 300px;
+}
+.container {
+    background: rgb(114, 94, 108);
+    border-radius: 10px;
+}
+
+hr {
+    margin-left: 0;
+    width: 80px;
+    background: rgb(231, 226, 226);
+}
